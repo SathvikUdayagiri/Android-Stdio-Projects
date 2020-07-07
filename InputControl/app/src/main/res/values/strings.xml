@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">InputControl</string>
+    <string-array name="district">
+        <item>Select District</item>
+        <item>Krishna</item>
+        <item>Guntur</item>
+        <item>Godavari</item>
+    </string-array>
+
+    <string-array name="KrishnaMandal">
+        <item>Select Mandal</item>
+        <item>K1</item>
+        <item>K2</item>
+        <item>K3</item>
+    </string-array>
+
+    <string-array name="GunturMandal">
+        <item>Select Mandal</item>
+        <item>G1</item>
+        <item>G2</item>
+        <item>G3</item>
+    </string-array>
+</resources>
