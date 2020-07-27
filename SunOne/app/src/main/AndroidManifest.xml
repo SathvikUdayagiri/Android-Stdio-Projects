@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.AllProjects.SathvikUdayagiri.sunone">
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/sunrise"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/sunrise"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".QrCode" android:label="Qr Code"/>
+        <activity android:name=".TossGame" />
+        <activity android:name=".Games" />
+        <activity android:name=".Cluster" />
+        <activity android:name=".voice" />
+
+    </application>
+
+</manifest>
