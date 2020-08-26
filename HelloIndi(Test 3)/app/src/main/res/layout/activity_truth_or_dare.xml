@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_height="match_parent" android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/yello_gradent">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".TruthOrDare"
+        android:orientation="vertical">
+        <GridLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/gl"
+            android:columnCount="1"
+            android:padding="10sp"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Add player"
+            android:onClick="add"
+            android:textColor="#F4F4F4"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:background="@drawable/dark_gradent"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Play"
+            android:onClick="play"
+            android:layout_marginTop="18sp"
+            android:textColor="#FDFDFD"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:background="@drawable/dark_gradent"
+            />
+    </LinearLayout>
+</ScrollView>

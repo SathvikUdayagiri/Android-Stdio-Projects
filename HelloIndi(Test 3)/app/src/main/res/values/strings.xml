@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">HelloIndi</string>
+
+    <string name="square_root_symbol">\u221a</string>
+    <string name="cube_root_symbol">\u221B</string>
+    <string name="fourth_root_symbol">\u221a</string>
+    <string name="pie_symbol">\u03C0</string>
+    <string name="xsquare">x\u00B2</string>
+    <string name="xcube">x\u00B3</string>
+    <string name="exponent">e\u00B0</string>
+    <string name="dividesymbol">x\u246B</string>
+    <string name="numberZero">0</string>
+    <string name="numberOne">1</string>
+    <string name="numberTwo">2</string>
+    <string name="numberThree">3</string>
+    <string name="numberFour">4</string>
+    <string name="numberFive">5</string>
+    <string name="numberSix">6</string>
+    <string name="numberSeven">7</string>
+    <string name="numberEight">8</string>
+    <string name="numberNine">9</string>
+    <string name="divide">÷</string>
+    <string name="multiple">x</string>
+    <string name="decimal">.</string>
+    <string name="equal">=</string>
+    <string name="plus">+</string>
+    <string name="subtract">-</string>
+    <string name="factorial">!</string>
+    <string name="closeParenthesis">)</string>
+    <string name="openParenthesis">(</string>
+    <string name="percent">%</string>
+    <string name="ac">AC</string>
+    <string name="del">del</string>
+    <string name="rad">Rad</string>
+    <string name="deg">Deg</string>
+    <string name="pi"> π </string>
+    <string name="inverse">1/x</string>
+    <string name="ln">ln</string>
+    <string name="e">e</string>
+    <string name="log">log</string>
+    <string name="squareRoot">√</string>
+    <string name="exp">EXP</string>
+    <string name="xy">x^y</string>
+    <string name="sine">sin</string>
+    <string name="cosine">cos</string>
+    <string name="tangent">tan</string>
+    <string name="answer">ANS</string>
+</resources>
